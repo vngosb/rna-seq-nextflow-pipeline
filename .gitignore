@@ -1,0 +1,13 @@
+# Data files
+data/
+
+# Pipeline outputs
+results/
+work/
+
+# Nextflow logs
+.nextflow*
+.nextflow.log*
+
+# Mac system files
+.DS_Store
