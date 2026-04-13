@@ -73,7 +73,7 @@ This pipeline identifies candidate miRNAs that may serve as potential biomarkers
 ## How to Run
 
 ```bash
-nextflow run main.nf --input samplesheet.csv
+nextflow run main.nf -profile test
 ```
 
 ---
